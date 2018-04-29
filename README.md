@@ -11,7 +11,7 @@ the default port is 4041 in order to leave 8080 for Tomcat
 
 <code>/usr/bin/airsonic</code> script to launch Java with the right parameters
 
-2- run those command:
+2- run those commands:
 
  <code>
  sudo update-rc.d airsonic defaults
